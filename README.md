@@ -72,6 +72,8 @@ Step-by-step instructions for installing skilledin:
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     # Folder configuration
+    # Remember to create the following folder or
+    # point to a existing folder
     ext_folder = "./extract/"
     exp_folder = "./export/"
     
