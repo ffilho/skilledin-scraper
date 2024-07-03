@@ -1,9 +1,16 @@
+# Defaults
 venv/
 env/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Sensitive Data
 src/cookies.json
 src/vars.py
+
+# Preserve exp
 src/export/*
+!src/export/
 src/extract/*
+!src/extract/
