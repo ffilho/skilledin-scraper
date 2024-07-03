@@ -1,0 +1,9 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+src/cookies.json
+src/vars.py
+src/export/*
+src/extract/*
