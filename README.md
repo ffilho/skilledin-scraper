@@ -33,8 +33,8 @@ Step-by-step instructions for installing skilledin:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/seu_usuario/nome_do_projeto.git
-   cd nome_do_projeto
+   git clone https://github.com/ffilho/skilledin-scraper.git
+   cd skilledin-scraper
 2. Ensure you have pip installed:
     ```sh
     python -m ensurepip --upgrade
